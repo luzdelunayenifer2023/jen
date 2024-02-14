@@ -1,0 +1,122 @@
+.logo{
+    background-color: rgb(75, 9, 95);
+    height: 200px;
+    width:100% ;
+
+}
+.menu{
+background-color: rgb(250, 215, 228);
+height: 70px;
+width: 100%;
+display: flex;
+
+}
+.boton{
+background-color: aqua;
+height: 68px;
+width: 110px;
+margin: 2px;
+
+}
+
+.contenedor{
+background-color: rgb(0, 0, 0);
+width: 100%;
+height: 800px;
+display: flex; }
+
+.izquierdo{
+background-color: aquamarine;
+width: 20%;
+height: 6000px;
+}
+
+.centro{
+    background-color: rgb(255, 255, 255);
+    width: 60%;
+    height: 6000px;
+}
+
+.derecho{
+    background-color: violet;
+    width: 20%;
+    height: 6000px;
+}
+
+.texto{
+font-size: 15px;
+text-align: left;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.titulo{
+font-size: 70px;
+text-align: center;
+color: white;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.titulo2{
+ font-size: 35px;
+ text-align: center;
+ color: rgb(255, 0, 0);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.texto2{
+    font-size: 20px;
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .texto3{
+        font-size: 20px;
+        text-align: left;
+        font-family: Arial, Helvetica, sans-serif;
+        }
+.imagen1{
+background-image: url("Que-es-un-celular.jpeg");
+height: 400px;
+width: 700px;
+}
+.texto4{
+    font-size: 20px;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .imagen2{
+        background-image: url("f791c16f-3731-49e5-a282-d1323928e6da.jpg");
+        height: 600px;
+        width: 700px;
+    }
+    .imagen3{
+        background-image: url("c8166306-c0e0-469a-9fb3-74a72d6c40ba.jpg");
+        height: 900px;
+        width: 700px;}
+        .imagen4{
+            background-image: url("8c22d9f1-72a2-4a0a-a2e1-4310299e79eb.jpg");
+            height: 700px;
+            width: 800px;}
+            .imagen5{
+                background-image: url("38b2b820-07ae-4ec2-b7f7-dc2816d9da84.jpg");
+                height: 800px;
+                width: 800px;}
+                .imagen6{
+                    background-image: url("PLA-1054.jpg");
+                    height: 800px;
+                    width: 800px;}
+                    .imagen7{
+                        background-image: url("a5e347c0-b1e1-45dc-a91e-db9eabe06990.jpg");
+                        height: 300px;
+                        width: 500px;}
+                        .imagen8{
+                            background-image: url("c378611b-7a91-4108-8721-1aed3b170b97.jpg");
+                            height: 400px;
+                            width: 650px;}
+                            .imagen9{
+                                background-image: url("b7670063-4186-4960-9332-2f49a47c09d0.jpg");
+                                height: 379px;
+                                width: 600px;}
+                    
+    .texto5{
+        font-size: 20px;
+        text-align: left;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
